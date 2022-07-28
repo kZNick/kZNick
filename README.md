@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
- <a align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" href="https://imgur.com/ycoD2Qn"><img src="https://i.imgur.com/ycoD2Qn.gif" title="source: imgur.com" /></a>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-0bd800ab1c.webp">
 </div>
   
   ##
