@@ -6,7 +6,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-0bd800ab1c.webp">
+  <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109254154/181618042-03907ff8-687c-4d7c-9c90-cea9f262d15b.gif">
 </div>
   
   ##
