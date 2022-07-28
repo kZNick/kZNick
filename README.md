@@ -1,5 +1,4 @@
-## ^_^  hello my name is Nicolas and welcome to my Github 👋😁
-
+## <img height="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/au-kddi/196/grinning-face-with-smiling-eyes_1f601.gif" alt=""> Hello I'm Nicolas and welcome to my Github
 <div align="center">
   <a href="https://github.com/kZNick/kZNick">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=kZNick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
