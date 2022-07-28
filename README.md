@@ -1,4 +1,4 @@
-## ^_^  hello my name is Nicolas and welcome to my Github 👋😁
+## ^_^  Hello I'm Nicolas and welcome to my Github👋😁
 
 <div align="center">
   <a href="https://github.com/kZNick/kZNick">
