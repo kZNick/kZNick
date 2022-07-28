@@ -1,4 +1,4 @@
-## ^_^  Hello I'm Nicolas and welcome to my Github👋😁
+## ^_^  hello my name is Nicolas and welcome to my Github 👋😁
 
 <div align="center">
   <a href="https://github.com/kZNick/kZNick">
@@ -6,7 +6,11 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-<img align="right" height="130" style="border-radius:50px;" src="https://i.imgur.com/rKkadff.gif%22%20title=%22source:%20imgur.com" alt="kZ">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Nick-Ps" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
+  <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-0bd800ab1c.webp">
 </div>
   
   ##
