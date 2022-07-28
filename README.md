@@ -17,5 +17,6 @@
   <a href = "Nicolas360@gotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/kZNick/kZNick/blob/output/github-contribution-grid-snake.svg)
+  <!--Creditos da cobrinha https://github.com/rafaballerini/rafaballerini/blob/main/README.md-->
  
 </div>
