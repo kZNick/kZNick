@@ -1,6 +1,6 @@
 ## ^_^  hello my name is Nicolas and welcome to my Github 👋😁
 
-<div align="center">
+<div>
   <a href="https://github.com/kZNick/kZNick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kZNick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
