@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="kz-gif" height="150" style="border-radius:50px;" src="![agora-vai](https://user-images.githubusercontent.com/109254154/181598279-ff100b6e-751d-45af-b9e6-db5edf97e0e4.gif)">
+  <img align="right" alt="kz-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/109254154/181599232-4603ab2c-6c1f-44f7-9e09-f1cfff06b937.gif">
 </div>
   
   ##
