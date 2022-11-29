@@ -12,6 +12,7 @@
  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Nick-Ps" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
   <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/642571420009889804/1002342193115185272/foda_perfil.png">
+    <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png">
 </div>
   
   ##
