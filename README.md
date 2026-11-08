@@ -1,36 +1,47 @@
 <div align="center">
-  <img height="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/au-kddi/196/grinning-face-with-smiling-eyes_1f601.gif" alt="">
-  <p>Hello I'm Nicolas and welcome to my Github</p>
-  <div align="center"> 
-    <img width="800px" style="border-radius: 10px;" src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif"/>
-  </div>
+  <img src="./assets/header.svg" width="860" alt="Nicolas · kZNick — Desenvolvedor Full Stack">
+  <p>Interfaces, APIs e ideias que viram projetos.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:nicolas360@hotmail.com.br">E-mail</a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/kZNick?tab=repositories">Projetos</a>
+  </p>
+  <img src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif" width="600" alt="Spike Spiegel, de Cowboy Bebop, comendo macarrão">
 </div>
-<hr/>
+
+## Oi, eu sou o Nicolas 👋
+
+Desenvolvedor full stack de Goiânia, GO. Trabalho com interfaces em **React**, APIs com **Node.js / Express** e **Python / Django**, além de bancos de dados relacionais.
+
+Gosto de construir aplicações completas: da interface e suas animações à autenticação, validação dos dados e integração com o back-end.
+
+## Minha stack
+
+### Front-end
+<img src="./assets/frontend.svg" width="860" alt="HTML5, CSS3, JavaScript, TypeScript, React e Vite">
+
+React Router · styled-components · GSAP · React Hook Form · Axios
+
+### Back-end e dados
+<img src="./assets/backend.svg" width="860" alt="Node.js, Express, Python, Django, PostgreSQL e TypeORM">
+
+Django REST Framework · APIs REST · autenticação com JWT · validação com Zod
+
+### Ferramentas e design
+<img src="./assets/tools.svg" width="430" alt="Git, GitHub e Adobe Photoshop">
+
+## Minhas contribuições 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kZNick/kZNick/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kZNick/kZNick/output/github-contribution-grid-snake.svg">
+  <img alt="Animação de uma cobrinha percorrendo meu calendário de contribuições no GitHub" src="https://raw.githubusercontent.com/kZNick/kZNick/output/github-contribution-grid-snake.svg" width="860">
+</picture>
+
+---
+
 <div align="center">
-  <a href="https://github.com/kZNick/kZNick">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=kZNick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kZNick&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nick-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nick-Ps" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg">
-  <img align="right" alt="kZgif" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/642571420009889804/1002342193115185272/foda_perfil.png">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:Nicolas360@gotmail.com.br">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
- 
-  ![Snake animation](https://github.com/kZNick/kZNick/blob/output/github-contribution-grid-snake.svg)
-  <!-- Creditos da cobrinha: https://github.com/rafaballerini/rafaballerini/blob/main/README.md -->
+  Vamos conversar? <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a> · <a href="mailto:nicolas360@hotmail.com.br">nicolas360@hotmail.com.br</a>
 </div>
