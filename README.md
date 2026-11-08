@@ -2,11 +2,11 @@
   <img src="./assets/header.svg" width="860" alt="Nicolas — Desenvolvimento Full Stack, IoT e fabricação digital">
   <p>Do firmware à interface. Do protótipo digital ao produto físico.</p>
   <p>
-    <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/"><img src="./assets/linkedin.svg" width="18" height="18" align="center" alt=""> LinkedIn</a>
     &nbsp; · &nbsp;
-    <a href="mailto:nicolas360@hotmail.com.br">E-mail</a>
+    <a href="mailto:nicolas360@hotmail.com.br"><img src="./assets/email.svg" width="18" height="18" align="center" alt=""> E-mail</a>
     &nbsp; · &nbsp;
-    <a href="https://github.com/kZNick?tab=repositories">Projetos</a>
+    <a href="https://github.com/kZNick?tab=repositories"><img src="./assets/projects.svg" width="18" height="18" align="center" alt=""> Projetos</a>
   </p>
   <img src="https://c.tenor.com/fFSln2_V98IAAAAC/shioshishio-muscle-sunglasses.gif" width="600" alt="Spike Spiegel, de Cowboy Bebop, comendo macarrão">
 </div>
@@ -102,5 +102,5 @@ UI/UX, design responsivo, layouts para sites e identidade visual aplicada a proj
 ---
 
 <div align="center">
-  Vamos conversar? <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a> · <a href="mailto:nicolas360@hotmail.com.br">nicolas360@hotmail.com.br</a>
+  Vamos conversar? <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/"><img src="./assets/linkedin.svg" width="18" height="18" align="center" alt=""> LinkedIn</a> · <a href="mailto:nicolas360@hotmail.com.br"><img src="./assets/email.svg" width="18" height="18" align="center" alt=""> nicolas360@hotmail.com.br</a>
 </div>
