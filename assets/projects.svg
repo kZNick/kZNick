@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#438dd5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M3 7V5a2 2 0 0 1 2-2h5l2 3h7a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/>
-  <path d="m9 11-3 3 3 3m6-6 3 3-3 3m-2-7-2 8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40" role="img" aria-label="Projetos">
+  <rect x=".75" y=".75" width="130.5" height="38.5" rx="9" fill="#182231" stroke="#34465f" stroke-width="1.5"/>
+  <g transform="translate(15 10)"><g fill="none" stroke="#63e6be" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M1 6V4a2 2 0 0 1 2-2h5l2 3h7a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2Z"/><path d="m7 9-3 3 3 3m6-6 3 3-3 3"/></g></g>
+  <text x="46" y="25" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Projetos</text>
 </svg>
