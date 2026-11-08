@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" role="img" aria-labelledby="title desc">
   <title id="title">Nicolas · kZNick</title>
-  <desc id="desc">Desenvolvedor Full Stack. Interfaces, APIs e projetos.</desc>
+  <desc id="desc">Desenvolvimento Full Stack, sistemas embarcados, IoT e fabricação digital.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c30"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#63e6be"/><stop offset="1" stop-color="#74b9ff"/></linearGradient>
@@ -12,8 +12,8 @@
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="62" y="62" font-size="13" letter-spacing="3" fill="#63e6be">OLÁ, MUNDO / HELLO, WORLD</text>
     <text x="60" y="123" font-size="48" font-weight="700" fill="#f0f6fc">Nicolas <tspan fill="#74b9ff">/ kZNick</tspan></text>
-    <text x="62" y="161" font-size="21" fill="#a9bdd3">Desenvolvedor Full Stack</text>
-    <text x="62" y="192" font-size="14" fill="#8196ad">React · TypeScript · Node.js · Python</text>
+    <text x="62" y="161" font-size="21" fill="#a9bdd3">Full Stack · IoT · Fabricação Digital</text>
+    <text x="62" y="192" font-size="14" fill="#8196ad">Web / Mobile · Embarcados · IA · Impressão 3D</text>
   </g>
   <text x="705" y="142" font-family="Consolas,monospace" font-size="64" font-weight="700" fill="#63e6be" opacity=".65">&lt;/&gt;</text>
   <rect x="793" y="160" width="15" height="4" rx="2" fill="#74b9ff">

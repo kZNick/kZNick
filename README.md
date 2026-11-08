@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./assets/header.svg" width="860" alt="Nicolas · kZNick — Desenvolvedor Full Stack">
-  <p>Interfaces, APIs e ideias que viram projetos.</p>
+  <img src="./assets/header.svg" width="860" alt="Nicolas · kZNick — Desenvolvimento Full Stack, IoT e fabricação digital">
+  <p>Do firmware à interface. Do protótipo digital ao produto físico.</p>
   <p>
     <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a>
     &nbsp; · &nbsp;
@@ -13,24 +13,83 @@
 
 ## Oi, eu sou o Nicolas 👋
 
-Desenvolvedor full stack de Goiânia, GO. Trabalho com interfaces em **React**, APIs com **Node.js / Express** e **Python / Django**, além de bancos de dados relacionais.
+Sou desenvolvedor de Goiânia, GO. Trabalho com **desenvolvimento full stack, sistemas embarcados, IoT e automação**, conectando hardware, servidores e aplicações web.
 
-Gosto de construir aplicações completas: da interface e suas animações à autenticação, validação dos dados e integração com o back-end.
+Também desenvolvo aplicações com **inteligência artificial**, crio interfaces e trabalho com **impressão 3D e prototipagem funcional**. Gosto de transformar ideias em soluções completas — do firmware e da comunicação em tempo real aos dashboards e produtos físicos.
 
-## Minha stack
+## Desenvolvimento web e mobile
 
-### Front-end
-<img src="./assets/frontend.svg" width="860" alt="HTML5, CSS3, JavaScript, TypeScript, React e Vite">
+<img src="./assets/frontend.svg" width="860" alt="JavaScript, TypeScript, React, React Native, Next.js e Vite">
 
-React Router · styled-components · GSAP · React Hook Form · Axios
+**Front-end:** HTML5, CSS3, styled-components, React Router DOM, Context API, Axios, React Hook Form e Yup. Interfaces responsivas, componentização, gerenciamento de estado, integração com APIs REST, dashboards e interfaces de monitoramento.
 
-### Back-end e dados
-<img src="./assets/backend.svg" width="860" alt="Node.js, Express, Python, Django, PostgreSQL e TypeORM">
+<img src="./assets/backend.svg" width="860" alt="Node.js, Express, Python, C, Django e TypeORM">
 
-Django REST Framework · APIs REST · autenticação com JWT · validação com Zod
+**Back-end:** APIs REST, WebSockets e comunicação em tempo real, JWT, bcrypt, validação de dados e integração com sistemas externos. Arquitetura de aplicações, regras de negócio e Django REST Framework.
 
-### Ferramentas e design
-<img src="./assets/tools.svg" width="430" alt="Git, GitHub e Adobe Photoshop">
+**Banco de dados:** PostgreSQL · Microsoft SQL Server · Oracle Database · SQL. Modelagem, consultas, relacionamentos e integração com APIs.
+
+## Infraestrutura, servidores e redes
+
+<img src="./assets/infra.svg" width="860" alt="Linux, Windows, Nginx, Cloudflare, Vercel e Git/GitHub">
+
+<details>
+<summary>Deploy, servidores e conectividade</summary>
+
+- Deploy e hospedagem de aplicações; configuração e manutenção de ambientes de desenvolvimento.
+- Servidores web, Nginx, proxy reverso, HTTPS e TLS.
+- Git, GitHub, SSH, Cloudflare e Vercel.
+- Redes TCP/IP, IPv4, IPv6, VPN e redes privadas.
+- Diagnóstico de conectividade em Linux e Windows.
+
+</details>
+
+## Sistemas embarcados, eletrônica e IoT
+
+<img src="./assets/embedded.svg" width="860" alt="C, ESP32, ESP-IDF, FreeRTOS, LoRa e WebSockets">
+
+Integração entre **hardware e aplicações web**, automação e monitoramento remoto de equipamentos.
+
+<details>
+<summary>Firmware, eletrônica e protocolos</summary>
+
+- Programação em C, ESP32, ESP-IDF e FreeRTOS.
+- LoRa, comunicação de rádio, UART, I²C, GPIO e PWM.
+- Sensores analógicos e digitais; ADS1115 e MCP23017.
+- Entradas e saídas industriais, relés e automação.
+- Desenvolvimento de protocolos, CRC, ACK e tratamento de mensagens.
+- NVS e persistência de configurações.
+- Tarefas embarcadas, watchdog e diagnóstico de firmware.
+- Comunicação com servidores via WebSocket.
+
+</details>
+
+## Inteligência artificial
+
+**TensorFlow.js** · aplicações com IA · integração de modelos e APIs · tratamento e análise de dados · simulações e algoritmos · automação de processos.
+
+Uso ferramentas de programação assistida por IA e experimento geração de imagens, vídeos e animações. Tenho interesse em aprofundar **aprendizado por reforço e agentes inteligentes**.
+
+## Design e comunicação visual
+
+UI/UX, design responsivo, layouts para sites e identidade visual aplicada a projetos. Criação e adaptação de artes, preparação de etiquetas e materiais para impressão, tratamento e composição de imagens e apresentação visual de produtos.
+
+## Impressão 3D e fabricação digital
+
+**FDM · Anycubic Kobra X · STL / 3MF · PLA / PLA Silk · impressão multicolorida**
+
+<details>
+<summary>Da preparação do arquivo ao produto</summary>
+
+- Preparação e fatiamento de arquivos; configuração de parâmetros de impressão.
+- Calibração, velocidades, temperaturas e paredes com Arachne.
+- Suportes, preenchimento, pontes e uso de diferentes filamentos.
+- Ajustes dimensionais, tolerâncias e planejamento de peças com encaixes.
+- Prototipagem funcional e desenvolvimento de produtos físicos.
+- Uso de IA como apoio à modelagem 3D.
+- Cálculo de custos e precificação de produtos impressos.
+
+</details>
 
 ## Minhas contribuições 🐍
 
