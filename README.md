@@ -76,14 +76,14 @@ UI/UX, design responsivo, layouts para sites e identidade visual aplicada a proj
 
 ## Impressão 3D e fabricação digital
 
-**Impressoras 3D FDM · STL / 3MF · PLA / PLA Silk e outros filamentos · impressão multicolorida**
+**Impressão 3D FDM e resina · STL / 3MF · impressão multicolorida**
 
 <details>
 <summary>Da preparação do arquivo ao produto</summary>
 
 - Preparação e fatiamento de arquivos; configuração de parâmetros de impressão.
 - Calibração, velocidades, temperaturas e paredes com Arachne.
-- Suportes, preenchimento, pontes e uso de diferentes filamentos.
+- Suportes, preenchimento e pontes.
 - Ajustes dimensionais, tolerâncias e planejamento de peças com encaixes.
 - Prototipagem funcional e desenvolvimento de produtos físicos.
 - Uso de IA como apoio à modelagem 3D.
