@@ -76,7 +76,7 @@ UI/UX, design responsivo, layouts para sites e identidade visual aplicada a proj
 
 ## Impressão 3D e fabricação digital
 
-**FDM · Anycubic Kobra X · STL / 3MF · PLA / PLA Silk · impressão multicolorida**
+**Impressoras 3D FDM · STL / 3MF · PLA / PLA Silk e outros filamentos · impressão multicolorida**
 
 <details>
 <summary>Da preparação do arquivo ao produto</summary>
