@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="860" alt="Nicolas · kZNick — Desenvolvimento Full Stack, IoT e fabricação digital">
+  <img src="./assets/header.svg" width="860" alt="Nicolas — Desenvolvimento Full Stack, IoT e fabricação digital">
   <p>Do firmware à interface. Do protótipo digital ao produto físico.</p>
   <p>
     <a href="https://www.linkedin.com/in/nicolas-marques-5b7280246/">LinkedIn</a>
@@ -27,7 +27,7 @@ Também desenvolvo aplicações com **inteligência artificial**, crio interface
 
 **Back-end:** APIs REST, WebSockets e comunicação em tempo real, JWT, bcrypt, validação de dados e integração com sistemas externos. Arquitetura de aplicações, regras de negócio e Django REST Framework.
 
-**Banco de dados:** PostgreSQL · Microsoft SQL Server · Oracle Database · SQL. Modelagem, consultas, relacionamentos e integração com APIs.
+**Banco de dados:** PostgreSQL · SQL Server · Oracle · SQL. Modelagem, consultas, relacionamentos e integração com APIs.
 
 ## Infraestrutura, servidores e redes
 

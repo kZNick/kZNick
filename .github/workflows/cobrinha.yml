@@ -8,6 +8,8 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/cobrinha.yml"
+      - "scripts/grow_snake.py"
+      - "scripts/test_grow_snake.py"
 
 concurrency:
   group: contribution-snake
@@ -20,6 +22,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Obter o script de crescimento
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Testar o crescimento da cobrinha
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+
       - name: Gerar animações para os temas claro e escuro
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
@@ -28,6 +36,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Fazer a cobrinha crescer ao comer contribuições
+        run: python3 scripts/grow_snake.py dist/*.svg
 
       - name: Verificar se o calendário foi gerado
         shell: bash
